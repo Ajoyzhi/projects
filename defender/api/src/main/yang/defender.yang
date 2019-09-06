@@ -1,0 +1,10 @@
+module defender {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:defender";
+    prefix "defender";
+    description "";
+
+    revision "2015-01-05" {
+        description "Initial revision of defender model";
+    }
+}
